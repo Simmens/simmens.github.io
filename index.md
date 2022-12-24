@@ -2,7 +2,7 @@
 
 ## Domain/IP
 
-- [](https://www.virustotal.com/gui/home/upload)
+- <https://www.virustotal.com/gui/home/upload>
 - https://dnsdumpster.com/
 - https://exchange.xforce.ibmcloud.com/
 - https://www.greynoise.io/
