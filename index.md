@@ -11,9 +11,12 @@
 
 ## News
 
-- <https://media.cert.europa.eu/cert/filteredition/en/CERT-LatestNews.>
+- <https://media.cert.europa.eu/cert/clusteredition/en/24hrs.html>
 - <https://blog.badsectorlabs.com/>
 - <https://thisweekin4n6.com/>
+- <https://cyware.com/cyber-security-news-articles>
+- <https://orkl.eu/search?sortBy=orkl_library%3Ats_creation_date%3Adesc&page=1>
+- <https://www.reddit.com/user/digicat/m/cyber_threat_intelligence/>
 
 ## Mitre
 
@@ -40,3 +43,17 @@
 ## Archive
 
 - <https://archive.org/>
+- <https://www.screenshotmachine.com/>
+
+# Regex
+
+- <https://regex101.com/>
+
+# Windows/Linux
+
+- <https://winbindex.m417z.com/>
+- <https://strontic.github.io/xcyclopedia/>
+- <https://www.magnumdb.com/>
+- <https://lolbas-project.github.io/#>
+- <https://gtfobins.github.io/> 
+
