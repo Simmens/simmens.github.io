@@ -49,11 +49,19 @@
 
 - <https://regex101.com/>
 
-# Windows/Linux
+# Windows/Linux/Internet
 
+- <https://lots-project.com/> 
 - <https://winbindex.m417z.com/>
 - <https://strontic.github.io/xcyclopedia/>
 - <https://www.magnumdb.com/>
 - <https://lolbas-project.github.io/#>
 - <https://gtfobins.github.io/> 
+- <https://filesec.io/> 
+
+## API Calls
+
+- <https://malapi.io/>
+
+
 
