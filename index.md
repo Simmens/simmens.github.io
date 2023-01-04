@@ -11,6 +11,7 @@
 
 ## News
 
+- <https://sec.today/pulses/>
 - <https://media.cert.europa.eu/cert/clusteredition/en/24hrs.html>
 - <https://blog.badsectorlabs.com/>
 - <https://thisweekin4n6.com/>
