@@ -11,6 +11,7 @@
 
 ## News
 
+- <https://bluepurple.substack.com/>
 - <https://sec.today/pulses/>
 - <https://media.cert.europa.eu/cert/clusteredition/en/24hrs.html>
 - <https://blog.badsectorlabs.com/>
@@ -24,6 +25,7 @@
 - <https://attack.mitre.org/matrices/enterprise/>
 - <https://d3fend.mitre.org/>
 - <https://car.mitre.org/analytics/>
+- https://controlcompass.github.io/
 
 ## Shell/Command
 
