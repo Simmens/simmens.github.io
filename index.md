@@ -25,7 +25,7 @@
 - <https://attack.mitre.org/matrices/enterprise/>
 - <https://d3fend.mitre.org/>
 - <https://car.mitre.org/analytics/>
-- https://controlcompass.github.io/
+- <https://controlcompass.github.io/>
 
 ## Shell/Command
 
