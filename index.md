@@ -60,6 +60,7 @@
 - <https://www.magnumdb.com/>
 - <https://lolbas-project.github.io/#>
 - <https://gtfobins.github.io/> 
+- <https://www.echotrail.io/>
 - <https://filesec.io/> 
 
 ## API Calls
