@@ -62,6 +62,7 @@
 - <https://gtfobins.github.io/> 
 - <https://www.echotrail.io/>
 - <https://filesec.io/> 
+- <https://github.com/AndrewRathbun/VanillaWindowsReference>
 
 ## API Calls
 
