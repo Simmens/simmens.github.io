@@ -69,4 +69,17 @@
 - <https://malapi.io/>
 
 
+## Blog/Research Sites
+
+- <https://www.group-ib.com/blog/>
+- <https://www.sentinelone.com/labs/>
+- <https://research.checkpoint.com/>
+- <https://www.malwarebytes.com/blog> 
+- <https://securelist.com/>
+- <https://www.mandiant.com/resources/blog/>
+- <https://blog.talosintelligence.com/>
+- <https://www.linkedin.com/groups/8582818/>
+- <https://unit42.paloaltonetworks.com/>
+
+
 
