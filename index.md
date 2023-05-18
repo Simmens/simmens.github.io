@@ -61,8 +61,12 @@
 - <https://lolbas-project.github.io/#>
 - <https://gtfobins.github.io/> 
 - <https://www.echotrail.io/>
+- https://lolol.farm/
 - <https://filesec.io/> 
 - <https://github.com/AndrewRathbun/VanillaWindowsReference>
+- https://wadcoms.github.io/
+- https://persistence-info.github.io/
+- https://unprotect.it/
 
 ## API Calls
 
@@ -80,6 +84,7 @@
 - <https://blog.talosintelligence.com/>
 - <https://www.linkedin.com/groups/8582818/>
 - <https://unit42.paloaltonetworks.com/>
+- https://twitter.com/Alh4zr3d
 
 
 
