@@ -61,7 +61,7 @@
 - <https://lolbas-project.github.io/#>
 - <https://gtfobins.github.io/> 
 - <https://www.echotrail.io/>
-- https://lolol.farm/
+- <https://lolol.farm/>
 - <https://filesec.io/> 
 - <https://github.com/AndrewRathbun/VanillaWindowsReference>
 - <https://wadcoms.github.io/>
