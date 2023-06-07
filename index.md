@@ -51,6 +51,8 @@
 # Regex
 
 - <https://regex101.com/>
+- <https://regexper.com/> 
+- <https://regexr.com/>
 
 # Windows/Linux/Internet
 
