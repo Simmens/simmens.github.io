@@ -31,9 +31,11 @@
 
 - <https://ss64.com/>
 - <https://explainshell.com/>
+- <https://github.com/Purp1eW0lf/Blue-Team-Notes> 
 
 ## Threat Intelligence
 
+- <https://www.ransomlook.io/recent> 
 - <https://github.com/blackorbird/APT_REPORT>
 - <https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections>
 - <https://controlcompass.github.io/>
@@ -69,6 +71,8 @@
 - <https://wadcoms.github.io/>
 - <https://persistence-info.github.io/>
 - <https://unprotect.it/>
+
+
 
 ## API Calls
 
