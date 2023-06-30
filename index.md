@@ -39,6 +39,7 @@
 - <https://github.com/blackorbird/APT_REPORT>
 - <https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections>
 - <https://controlcompass.github.io/>
+- <https://www.dsgvo-portal.de/sicherheitsvorfall-datenbank/>
 
 ## Content Engineering
 
