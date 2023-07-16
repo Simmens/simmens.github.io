@@ -1,5 +1,11 @@
 # Linkshare 
 
+## Forensic
+
+- <https://github.com/Psmths/windows-forensic-artifacts>
+- <https://github.com/TonyPhipps/SIEM/blob/master/Notable-Event-IDs.md>
+- <https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap> 
+
 ## Domain/IP
 
 - <https://www.virustotal.com/gui/home/upload>
