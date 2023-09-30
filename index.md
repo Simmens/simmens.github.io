@@ -1,5 +1,10 @@
 # Linkshare 
 
+## Incident Response
+
+- <https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards>
+- <https://www.incidentresponse.org/playbooks/> 
+
 ## Forensic
 
 - <https://github.com/Psmths/windows-forensic-artifacts>
