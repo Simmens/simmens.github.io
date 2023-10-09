@@ -105,6 +105,7 @@
 - <https://www.linkedin.com/groups/8582818/>
 - <https://unit42.paloaltonetworks.com/>
 - <https://twitter.com/Alh4zr3d>
+- <https://respublicae.eu/tags/cybersecurity>
 
 
 
