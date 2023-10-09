@@ -52,6 +52,7 @@
 - <https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections>
 - <https://controlcompass.github.io/>
 - <https://www.dsgvo-portal.de/sicherheitsvorfall-datenbank/>
+- <https://cert.at/de/tagesberichte/2023/10/tagesberichte-09102023>
 
 ## Content Engineering
 
@@ -106,6 +107,7 @@
 - <https://unit42.paloaltonetworks.com/>
 - <https://twitter.com/Alh4zr3d>
 - <https://respublicae.eu/tags/cybersecurity>
+  
 
 
 
