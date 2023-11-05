@@ -9,7 +9,8 @@
 
 - <https://github.com/Psmths/windows-forensic-artifacts>
 - <https://github.com/TonyPhipps/SIEM/blob/master/Notable-Event-IDs.md>
-- <https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap> 
+- <https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap>
+- <https://github.com/ForensicArtifacts>
 
 ## Domain/IP
 
