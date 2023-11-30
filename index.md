@@ -11,6 +11,7 @@
 - <https://github.com/TonyPhipps/SIEM/blob/master/Notable-Event-IDs.md>
 - <https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap>
 - <https://github.com/ForensicArtifacts>
+- <https://ruler-project.github.io/ruler-project/resources/>
 
 ## Domain/IP
 
