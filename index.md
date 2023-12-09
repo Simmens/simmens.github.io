@@ -33,6 +33,9 @@
 - <https://cyware.com/cyber-security-news-articles>
 - <https://orkl.eu/search?sortBy=orkl_library%3Ats_creation_date%3Adesc&page=1>
 - <https://www.reddit.com/user/digicat/m/cyber_threat_intelligence/>
+- <https://www.detectionengineering.net/>
+- <https://sourcesmethods.com/tag/newsletter/>
+- <https://cloudseclist.com/past-issues/>
 
 ## Mitre
 
