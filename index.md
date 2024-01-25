@@ -35,6 +35,7 @@
 - <https://www.reddit.com/user/digicat/m/cyber_threat_intelligence/>
 - <https://www.detectionengineering.net/>
 - <https://sourcesmethods.com/tag/newsletter/>
+- <https://allinfosecnews.com/>
 - <https://cloudseclist.com/past-issues/>
 
 ## Mitre
