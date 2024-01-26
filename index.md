@@ -36,6 +36,7 @@
 - <https://www.detectionengineering.net/>
 - <https://sourcesmethods.com/tag/newsletter/>
 - <https://allinfosecnews.com/>
+- <https://exchange.xforce.ibmcloud.com/report/list?type=ThreatAnalysis> 
 - <https://cloudseclist.com/past-issues/>
 
 ## Mitre
